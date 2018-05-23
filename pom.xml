@@ -45,7 +45,7 @@
     <version>3.12.0</version>
 </dependency>
 		
-			<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
+			<!-- https://mvnrepfository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
 
 			<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
 	<dependency>
